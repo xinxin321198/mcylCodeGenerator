@@ -7,12 +7,10 @@
 ###5.当初考虑使用T4模板引擎，后来未使用，代码的生成使用纯拼接字符串处理
 ###5.此工具属于本人的his系统附属工具，需要配套参考
 
-[基于C#的his系统](https://github.com/xinxin321198/mcyl/)<br/>
-[代码生成器](https://github.com/xinxin321198/mcylCodeGenerator)<br/>
-[文档](https://github.com/xinxin321198/mcylDoc)<br/>
+[基于C#的his系统](https://github.com/xinxin321198/mcyl/)
+
 
 * 昵称：loserStar<br/>
-* email:xinxin321198@gmail.com<br/>
-* email2:362527240@qq.com<br/>
-* qq:362527240<br/>
-* github:https://github.com/xinxin321198<br/>
+* email:xinxin321198@gmail.com
+* email2:362527240@qq.com
+* qq:362527240
