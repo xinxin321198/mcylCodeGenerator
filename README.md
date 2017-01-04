@@ -10,7 +10,7 @@
 [基于C#的his系统](https://github.com/xinxin321198/mcyl/)
 
 
-*昵称：loserStar
-*email:xinxin321198@gmail.com
-*email2:362527240@qq.com
-*qq:362527240
+* 昵称：loserStar<br/>
+* email:xinxin321198@gmail.com
+* email2:362527240@qq.com
+* qq:362527240
