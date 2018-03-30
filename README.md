@@ -7,6 +7,20 @@
 ### 5.当初考虑使用T4模板引擎，后来未使用，代码的生成使用纯拼接字符串处理
 ### 5.此工具属于本人的his系统附属工具，需要配套参考
 
+![image](./doc/img/1.png)
+![image](./doc/img/2.png)
+![image](./doc/img/3.png)
+![image](./doc/img/4.png)
+![image](./doc/img/5.png)
+![image](./doc/img/6.png)
+![image](./doc/img/7.png)
+![image](./doc/img/8.png)
+![image](./doc/img/9.png)
+![image](./doc/img/10.png)
+![image](./doc/img/11.png)
+
+
+
 [基于C#的his系统](https://github.com/xinxin321198/mcyl/)<br/>
 [代码生成器](https://github.com/xinxin321198/mcylCodeGenerator)<br/>
 [文档](https://github.com/xinxin321198/mcylDoc)<br/>
